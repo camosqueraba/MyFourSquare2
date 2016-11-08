@@ -130,7 +130,7 @@
                                 android:textAllCaps="false"
                                 android:drawableTop="@mipmap/thingstodo_intent"
 
-                                android:textColor="#606a6f"
+                                android:textColor=" #606a6f"
                                 android:layout_weight="0.13" />
 
 
